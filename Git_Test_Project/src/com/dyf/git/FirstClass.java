@@ -14,5 +14,6 @@ public class FirstClass {
 
         int i=0;
         System.out.print(i);
+        int a=2;
     }
 }
